@@ -1,0 +1,13 @@
+1. gitinnore 使本地文件排除git管理
+
+   添加位置在项目最外层目录，例如web项目src同级目录
+
+
+2. gitignore 文件不生效问题处理
+   1）. 删除暂存的文件
+   2）. 重新添加.gitignore文件
+
+-- git rm -r --cached .idea
+-- git rm --cached demo-project.iml
+   再重新加入.gitignore文件
+
