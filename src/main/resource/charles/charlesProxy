@@ -1,0 +1,14 @@
+
+移动设备网络请求监控：
+
+
+charles 激活方法：  https://blog.csdn.net/qq_25821067/article/details/79848589
+
+                   / Charles 4.2目前是最新版，可用。
+                   Registered Name: https://zhile.io
+                   License Key: 48891cf209c6d32bf4
+                   https://blog.csdn.net/tianshats/article/details/51026657
+
+
+
+安装完成后，移动设备必须与电脑在同一个wifi环境下， 在手机上添加mobile代理地址(电脑当前的IP地址，端口软件的默认端口)
